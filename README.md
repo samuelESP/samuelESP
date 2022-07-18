@@ -1,6 +1,6 @@
 ### 🇧🇷 Hi there, I'm Samuel 👋
 
-- ☺️ I'm new to programming. 
+- ☺️ Newbie programmer.
 - 💡 Main skills :  `HTML5`,`CSS3`.
 - 🌱 I’m currently learning: `JavaScript`,`Angular`,`Java`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
