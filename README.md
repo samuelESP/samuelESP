@@ -1,8 +1,8 @@
 ### 🇧🇷 Hi there, I'm Samuel 👋
 
 - ☺️ Newbie programmer.
-- 💡 Main skills :  `HTML5`,`CSS3`.
-- 🌱 I’m currently learning: `JavaScript`,`Angular`,`Java`.
+- 💡 Main skills :  `HTML5`,`CSS3`,`JavaScript`.
+- 🌱 I’m currently learning: `Angular`,`Java`,`TypeScript`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
 - 😄 Pronouns: ele/dele
@@ -18,6 +18,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Samuel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
