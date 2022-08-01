@@ -1,11 +1,14 @@
 ### 🇧🇷 Hi there, I'm Samuel 👋
 
-- ☺️ Newbie programmer.
+
+- 😄 20 year old(15/september/2001).
+- 🎓 currently studying in college: Análise e Desenvolvimento de sistemas(Systems Analysis and Development).
+- ☺️  Newbie programmer.
 - 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`.
 - 🌱 I’m currently learning: `Angular`,`TypeScript`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <hr>
 
