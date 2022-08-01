@@ -2,7 +2,7 @@
 
 - ☺️ Newbie programmer.
 - 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`.
-- 🌱 I’m currently learning: `Angular`,`Java`,`TypeScript`.
+- 🌱 I’m currently learning: `Angular`,`TypeScript`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
 - 😄 Pronouns: ele/dele
