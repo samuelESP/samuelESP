@@ -1,13 +1,14 @@
 ### 🇧🇷 Hi there, I'm Samuel 👋
 
 
-- 😄 20 year old(15/september/2001).
-- 🎓 currently studying in college: Análise e Desenvolvimento de sistemas(Systems Analysis and Development).
+- 😄 21 year old(15/september/2001).
+- 🎓 currently studying in college: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree).
 - ☺️  Newbie programmer.
-- 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `SQL`.
-- 🌱 I’m currently learning:`TypeScript`, `React`
+- 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `SQL`.
+- 🌱 I’m currently learning:`TypeScript`, `node.JS`
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
+- 🗏 [Portfolio](https://samuelesp.github.io/)
 
 
 <hr>
@@ -25,6 +26,8 @@
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Samuel-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Samuel-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Samuel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
 </div>
@@ -33,5 +36,5 @@
  
 <div> 
 <a href = "mailto:samuelnegocios1509@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samuel-e-14100a19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/samuel-espindo-la/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
