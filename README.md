@@ -3,7 +3,6 @@
 
 - 😄 21 year old(15/september/2001).
 - 🎓 currently studying in college: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree).
-- ☺️  Newbie programmer.
 - 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `SQL`.
 - 🌱 I’m currently learning:`TypeScript`, `node.JS`
 - 🗺️ I’m from Brazil - State of Minas Gerais
