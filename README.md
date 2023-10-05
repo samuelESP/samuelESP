@@ -1,10 +1,10 @@
 ### 🇧🇷 Hi there, I'm Samuel 👋
 
 
-- 😄 21 year old(15/september/2001).
+- 😄 22 year old(15/september/2001).
 - 🎓 currently studying in college: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree).
-- 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `SQL`.
-- 🌱 I’m currently learning:`TypeScript`, `node.JS`
+- 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `MYSQL`, `TypeScript`.
+- 🌱 I’m currently learning:`node.JS`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
 - 🗏 [Portfolio](https://samuelesp.github.io/)
