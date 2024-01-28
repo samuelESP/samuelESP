@@ -2,7 +2,7 @@
 
 
 - 😄 22 year old(15/september/2001).
-- 🎓 currently studying in college: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree).
+- 🎓 Degree: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree) Jan/2022-Dez/2023.
 - 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `MYSQL`, `TypeScript`, `node.JS`.
 - 🌱 I’m currently learning:`.NET`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
