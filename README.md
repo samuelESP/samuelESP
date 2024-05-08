@@ -3,7 +3,7 @@
 
 - 😄 22 year old(15/september/2001).
 - 🎓 Degree: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree) Jan/2022-Dez/2023.
-- 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `MYSQL`, `TypeScript`, `node.JS`,`MongoDB`.
+- 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `MYSQL`, `TypeScript`, `node.JS`, `MongoDB`, `Redux`, `Bootstrap`.
 - 🌱 I’m currently learning:`NextJS`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
@@ -28,6 +28,12 @@
   <img align="center" alt="Samuel-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Samuel-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Samuel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Samuel-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Samuel-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Samuel-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+          
   
 </div>
   
