@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning:`NextJS`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
-- 🗏 [Linkedin](https://www.linkedin.com/in/samuel-espindo-la))
+- 🗏 [Linkedin](https://www.linkedin.com/in/samuel-espindo-la)
 
 
 <hr>
