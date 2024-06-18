@@ -3,7 +3,7 @@
 
 - 😄 22 year old(15/september/2001).
 - 🎓 Degree: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree) Jan/2022-Dez/2023.
-- 💡 Skills :  `HTML5`,`CSS3`,`JavaScript`, `React`, `MYSQL`, `TypeScript`, `node.JS`, `MongoDB`, `Redux`, `Bootstrap`.
+- 💡 Skills :  `HTML5 & CSS3`,`JavaScript`, `React`, `MYSQL`, `TypeScript`, `node.JS`, `MongoDB`, `Redux`, `Bootstrap`.
 - 🌱 I’m currently learning:`NextJS`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
