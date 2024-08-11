@@ -3,8 +3,8 @@
 
 - 😄 22 year old(15/september/2001).
 - 🎓 Degree: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree) Jan/2022-Dez/2023.
-- 💡 Skills :  `HTML5 & CSS3`,`JavaScript`, `React`, `MYSQL`, `TypeScript`, `node.JS`, `MongoDB`, `Redux`, `Bootstrap`.
-- 🌱 I’m currently learning:`NextJS`.
+- 💡 Skills :  `HTML5|CSS3`,`JS|TS`, `React`, `MYSQL`, `node.JS`, `MongoDB`, `Bootstrap`, `NextJS`.
+- 🌱 I’m currently learning:`python`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
 - 🗏 [Linkedin](https://www.linkedin.com/in/samuel-espindo-la)
@@ -25,12 +25,12 @@
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Samuel-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Samuel-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Samuel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Samuel-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Samuel-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Samuel-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   
           
   
