@@ -1,10 +1,10 @@
 ### 🇧🇷 Hi there, I'm Samuel 👋
 
 
-- 😄 22 year old(15/september/2001).
+- 😄 24 year old(15/september/2001).
 - 🎓 Degree: Análise e Desenvolvimento de sistemas(Systems Analysis and Development- Associate Degree) Jan/2022-Dez/2023.
 - 💡 Skills :  `HTML5|CSS3`,`JS|TS`, `React`, `MYSQL`, `node.JS`, `MongoDB`, `Bootstrap`, `NextJS`.
-- 🌱 I’m currently learning:`python`.
+- 🌱 I’m currently learning:`C#/ASP.NET`.
 - 🗺️ I’m from Brazil - State of Minas Gerais
 - 📫 How to reach me: samuelnegocios1509@gmail.com
 - 🗏 [Linkedin](https://www.linkedin.com/in/samuel-espindo-la)
